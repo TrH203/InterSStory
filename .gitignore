@@ -1,0 +1,12 @@
+Video Demo
+image
+include
+lib
+Debug
+.vscode
+sound
+x64
+GameSamSung.vcxproj
+GameSamSung.vcxproj.filters
+GameSamSung.vcxproj.user
+.DS_Store
