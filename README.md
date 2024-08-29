@@ -1,6 +1,4 @@
-To add an icon to your README file, you can use markdown-supported icons from websites like [Shields.io](https://shields.io/), or you can include emoji characters directly in the text. Below is the README with an icon added at the top and next to key sections:
 
----
 
 # 🎮 InterSStory Game
 
