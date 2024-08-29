@@ -3,8 +3,7 @@
 
 #include "Displayable.h"
 
-class Animation :
-	public Displayable
+class Animation : public Displayable
 {
 public:
 	Animation();
@@ -12,7 +11,7 @@ public:
 
 	Animation(Vector2f _position, Animator _animator);
 	void init(Vector2f _position, Animator _animator);
-	void update(Time& elapsed);
+	void update(Time &elapsed);
 	void update(int frame);
 	bool isEnd();
 	inline void randomAnimation() { animator.randomAnimation(); }
