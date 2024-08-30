@@ -28,7 +28,7 @@
   - 🕹️ The game difficulty increases the longer you play.
 
 ## 📽️ Demos:
-
+Full video demo: https://youtu.be/IDFxt8jprY4
 
 **Menu Demo** (5x speed:
 
