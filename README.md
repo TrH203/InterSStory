@@ -2,7 +2,7 @@
 
 # 🎮 InternSStory Game
 
-**InterSStory** is a dynamic game inspired by *Vampire Survivors*, developed in C++. While it draws inspiration from the classic gameplay, our team has significantly enhanced the experience by incorporating an engaging **storyline**, captivating **animations**, and immersive **special effects**. These enhancements make the game world more vibrant and compelling. The game also integrates rich audio and stunning visuals to create a truly immersive experience.
+**InternSStory** is a dynamic game inspired by *Vampire Survivors*, developed in C++. While it draws inspiration from the classic gameplay, our team has significantly enhanced the experience by incorporating an engaging **storyline**, captivating **animations**, and immersive **special effects**. These enhancements make the game world more vibrant and compelling. The game also integrates rich audio and stunning visuals to create a truly immersive experience.
 
 ## 📝 Game Description
 
